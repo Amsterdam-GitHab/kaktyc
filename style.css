@@ -1,7 +1,13 @@
+header {
+    background-color: rgb(187, 187, 238);
+    padding: 10px;
+}
+
 header img {
     width: 550px;
     height: 300px;
 }
+
 header a {
      color:blue;
      background-color: antiquewhite;
@@ -11,7 +17,10 @@ header a {
      font-size: 20px;
      padding: 5px;
      margin: 10px;
-}s
+}
+
+
+
 
 
 h1 {
